@@ -1,0 +1,1 @@
+-- Q: How many students are in each education level?
